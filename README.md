@@ -14,5 +14,5 @@ Responsive Layout: Optimized for seamless viewing on all devices. 📱💻
 
 🔗 Live Demo
 
-Check out the live version of the website here: https://vaibhav09981.github.io 
+Check out the live version of the website here: https://vaibhav09981.github.io/my-portfolio-website/
 🌟
