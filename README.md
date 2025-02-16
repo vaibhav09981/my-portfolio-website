@@ -1,4 +1,3 @@
----
 
 🚀 Vaibhav Jamloki's Personal Portfolio 🌐
 
@@ -17,6 +16,3 @@ Responsive Layout: Optimized for seamless viewing on all devices. 📱💻
 
 Check out the live version of the website here: https://vaibhav09981.github.io 
 🌟
-
-
----
